@@ -1,16 +1,24 @@
-### Hi there 👋
+Hello! It's me, Antikore.
+If you found this message, congratulations, you got to my GitHub profile.
 
-<!--
-**AntikoreDev/AntikoreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming langues I know
+* [Python](https://www.python.org/about/)
+* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScripthttps://www.python.org/about/)
+* [GML](https://manual.yoyogames.com/GameMaker_Language.htm)
+* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (Basics)
+* [Java](https://www.java.com/) (Very basics)
+* [Lua](https://www.lua.org/) (Very basics)
 
-Here are some ideas to get you started:
+## Some cool stuff I've made
+* [rngoose](https://github.com/AntikoreDev/rngoose) · Node.js package for easily management of rnadom numbers
+* [Trophy Bot](https://github.com/AntikoreDev/trophy-bot/) · Discord.js bot to manage trophies and scoring in your server.
+* [IWANNADIE](https://gist.github.com/AntikoreDev/c1452380e7bdfb0f4cd7f6d61b092e53) · Esolang made in python, it does not work very well tho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some miscellaneous projects
+* [Ai-lang](https://github.com/AntikoreDev/ai-lang) · A custom conlang dictionary made by myself, with some python scripts to manage various aspects of the language and files on the repository.
+
+## Donations?
+If you want to support me and my work, consider to ✨☕[buy me a coffee](https://ko-fi.com/antikore)
+
+## Related links
+* [Itch.io](https://antikore.itch.io/) · Some games and stuff I've made
