@@ -1,7 +1,7 @@
-Hello! It's me, Antikore.
+Hello! It's me, **Antikore**. ❤️<br> 
 If you found this message, congratulations, you got to my GitHub profile.
 
-## Programming langues I know
+## Programming Languages I know
 * [Python](https://www.python.org/about/)
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScripthttps://www.python.org/about/)
 * [GML](https://manual.yoyogames.com/GameMaker_Language.htm)
