@@ -16,9 +16,10 @@ If you found this message, congratulations, you got to my GitHub profile.
 
 ## Some miscellaneous projects
 * [Ai-lang](https://github.com/AntikoreDev/ai-lang) · A custom conlang dictionary made by myself, with some python scripts to manage various aspects of the language and files on the repository.
+* [wave](https://github.com/AntikoreDev/wave) · A repository to collect every implementation of a wave function I found on a Shaun Spalding's GameMaker Studio video into every language possible.
 
 ## Donations?
-If you want to support me and my work, consider to ✨☕[buy me a coffee](https://ko-fi.com/antikore)
+If you want to support me and my work, consider to [buy me a coffee](https://ko-fi.com/antikore)✨☕
 
 ## Related links
 * [Itch.io](https://antikore.itch.io/) · Some games and stuff I've made
