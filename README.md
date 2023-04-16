@@ -12,7 +12,9 @@ If you found this message, congratulations, you got to my GitHub profile.
 ## Some cool stuff I've made
 * [rngoose](https://github.com/AntikoreDev/rngoose) · Node.js package for easily management of rnadom numbers
 * [Trophy Bot](https://github.com/AntikoreDev/trophy-bot/) · Discord.js bot to manage trophies and scoring in your server.
-* [IWANNADIE](https://gist.github.com/AntikoreDev/c1452380e7bdfb0f4cd7f6d61b092e53) · Esolang made in python, it does not work very well tho
+* [IWANNADIE](https://github.com/AntikoreDev/IWANNADIE/) · Weird esolang made in python for those who like damage more than average.
+* [IWANNADIE (Original)](https://gist.github.com/AntikoreDev/c1452380e7bdfb0f4cd7f6d61b092e53) · Original implementation of IWANNADIE as a gist, it does not work very well tho.
+* 
 
 ## Some miscellaneous projects
 * [Ai-lang](https://github.com/AntikoreDev/ai-lang) · A custom conlang dictionary made by myself, with some python scripts to manage various aspects of the language and files on the repository.
