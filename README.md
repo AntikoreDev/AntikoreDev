@@ -16,7 +16,7 @@ If you found this message, congratulations, you got to my GitHub profile.
 * [IWANNADIE (Original)](https://gist.github.com/AntikoreDev/c1452380e7bdfb0f4cd7f6d61b092e53) · Original implementation of IWANNADIE as a gist, it does not work very well tho.
 
 ## Some miscellaneous projects
-* [Ai-lang](https://github.com/AntikoreDev/ai-lang) · A custom conlang dictionary made by myself, with some python scripts to manage various aspects of the language and files on the repository.
+* [Aidanish](https://github.com/AntikoreDev/aidanish) · A constructed language of my creation, mixture between various romanic, germanic and other languages. Also using some python scripts to manage various aspects of the language and files on the repository.
 * [wave](https://github.com/AntikoreDev/wave) · A repository to collect every implementation of a wave function I found on a Shaun Spalding's GameMaker Studio video into every language possible.
 
 ## Donations?
