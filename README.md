@@ -29,3 +29,5 @@ If you want to support me and my work, consider to buy me a coffee ✨☕
 
 ## Social Links
 * [Itch.io](https://antikore.itch.io/) · Some games and stuff I've made
+
+_*Alglotipedia = Set of computer languages of any kind which I know how to use._
