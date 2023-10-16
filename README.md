@@ -1,5 +1,5 @@
 Hello! It's me, **Antikore**. ❤️<br> 
-If you found this message, congratulations, you got to my GitHub profile.
+If you found this message, congratulations, you got to my [GitHub](https://github.com/AntikoreDev/AntikoreDev/blob/main/TEST.md) profile.
 
 ## Alglotipedia
 <div align="center">
