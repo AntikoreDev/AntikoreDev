@@ -1,7 +1,7 @@
 Hello! It's me, **Antikore**. ❤️<br> 
 If you found this message, congratulations, you got to my GitHub profile.
 
-## Programming Languages I know
+## Alglotipedia
 <div align="center">
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
