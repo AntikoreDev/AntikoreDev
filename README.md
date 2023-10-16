@@ -12,12 +12,11 @@ If you found this message, congratulations, you got to my GitHub profile.
   <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
 </div>
 
-## Some cool stuff I've made
-* [rngoose](https://github.com/AntikoreDev/rngoose) · Node.js package for easily management of rnadom numbers
+## Some cool stuff I've done
+* [rngoose](https://github.com/AntikoreDev/rngoose) · Node.js package for easily management of random numbers
 * [Trophy Bot](https://github.com/AntikoreDev/trophy-bot/) · Discord.js bot to manage trophies and scoring in your server.
 * [TBTS](https://github.com/AntikoreDev/TBTS/) · Open source terminal-based solo trivia game.
 * [IWANNADIE](https://github.com/AntikoreDev/IWANNADIE/) · Weird esolang made in python for those who like damage more than average.
-* [IWANNADIE (Original)](https://gist.github.com/AntikoreDev/c1452380e7bdfb0f4cd7f6d61b092e53) · Original implementation of IWANNADIE as a gist, it does not work very well tho.
 
 ## Some miscellaneous projects
 * [Aidanish](https://github.com/AntikoreDev/aidanish) · A constructed language of my creation, mixture between various romanic, germanic and other languages. Also using some python scripts to manage various aspects of the language and files on the repository.
