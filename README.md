@@ -2,12 +2,15 @@ Hello! It's me, **Antikore**. ❤️<br>
 If you found this message, congratulations, you got to my GitHub profile.
 
 ## Programming Languages I know
-* [Python](https://www.python.org/about/)
-* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScripthttps://www.python.org/about/)
-* [GML](https://manual.yoyogames.com/GameMaker_Language.htm)
-* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (Basics)
-* [Java](https://www.java.com/) (Very basics)
-* [Lua](https://www.lua.org/) (Very basics)
+<div align="center">
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://manual.yoyogames.com/GameMaker_Language.htm"><img alt="GameMaker Language" src="https://img.shields.io/badge/GameMaker%20Language-black?style=for-the-badge&logo=gamemaker&logoColor=white&labelColor=black&color=black"></a>
+  <a href="https://www.python.org/about/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+</div>
 
 ## Some cool stuff I've made
 * [rngoose](https://github.com/AntikoreDev/rngoose) · Node.js package for easily management of rnadom numbers
