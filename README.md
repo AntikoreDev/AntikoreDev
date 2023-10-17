@@ -1,5 +1,13 @@
+<img align="right" src="https://i.imgur.com/obPDWXl.gif" alt="Synthwave Gif" width="380">
+
 Hello! It's me, **Antikore**. ❤️<br> 
 If you found this message, congratulations, you got to my [GitHub](https://github.com/AntikoreDev/AntikoreDev/blob/main/TEST.md) profile.
+
+## About Me
+I'm a solo **videogame** and **software developer**, as well as kind of a **game designer** too!
+Born in [Spain](https://en.wikipedia.org/wiki/Spain), interested in video editing, languages, and various other topics. 
+
+_My goal is to make games that can change the world._
 
 ## Alglotipedia
 <div align="center">
@@ -23,7 +31,7 @@ If you found this message, congratulations, you got to my [GitHub](https://githu
   <a href="https://tenacityaudio.org/"><img alt="Tenacity" src="https://img.shields.io/badge/Tenacity-CA153E?style=for-the-badge&logo=audacity&logoColor=white"></a>
   <a href="https://github.com/th-ch/youtube-music"><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
   <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
-  
+  <a href="https://getpaint.net/"><img alt="Paint.NET" src="https://img.shields.io/badge/Paint.NET-0000AA.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
 </div>
 
 
