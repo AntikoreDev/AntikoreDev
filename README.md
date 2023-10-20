@@ -18,6 +18,11 @@ _My goal is to make games that can change the world._
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
+  <a href="https://daringfireball.net"><img alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <a href="https://yarnpkg.com"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
+  <a href="https://nodejs.org"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://expressjs.com"><img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 </div>
 
 ## Software & Service Choices
@@ -32,6 +37,8 @@ _My goal is to make games that can change the world._
   <a href="https://github.com/th-ch/youtube-music"><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
   <a href="https://trello.com/"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
   <a href="https://getpaint.net/"><img alt="Paint.NET" src="https://img.shields.io/badge/Paint.NET-0000AA.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
+  <a href="https://store.steampowered.com"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://itch.io/"><img alt="Itch" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </div>
 
 
@@ -53,4 +60,4 @@ If you want to support me and my work, consider to buy me a coffee ✨☕
 ## Social Links
 * [Itch.io](https://antikore.itch.io/) · Some games and stuff I've made
 
-_*Alglotipedia = Set of computer languages of any kind which I know how to use._
+_*Alglotipedia = Set of computer languages of any kind which I know how to use, including programming, scripting, markup, etc. (I included my known technologies too!)_
