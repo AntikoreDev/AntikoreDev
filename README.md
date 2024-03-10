@@ -51,6 +51,11 @@ _My goal is to make games that can change the world._
 * [TBTS](https://github.com/AntikoreDev/TBTS/) · Open source terminal-based solo trivia game.
 * [IWANNADIE](https://github.com/AntikoreDev/IWANNADIE/) · Weird esolang made in python for those who like damage more than average.
 
+### Duck Game Mods
+These mods are pretty old but released to public domain due to the possible delisting of Duck Game and other ASG games.
+* [Basketball](https://github.com/AntikoreDev/dg-basketball)
+* [Random Stuff](https://github.com/AntikoreDev/dg-random-stuff)
+
 ## Miscellaneous Projects
 * [Aidanish](https://github.com/AntikoreDev/aidanish) · A constructed language of my creation, mixture between various romanic, germanic and other languages. Also using some python scripts to manage various aspects of the language and files on the repository.
 * [wave](https://github.com/AntikoreDev/wave) · A repository to collect every implementation of a wave function I found on a Shaun Spalding's GameMaker Studio video into every language possible.
