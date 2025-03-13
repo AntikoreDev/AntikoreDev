@@ -52,7 +52,7 @@ _My goal is to make games that can change the world._
 * [IWANNADIE](https://github.com/AntikoreDev/IWANNADIE/) · Weird esolang made in python for those who like damage more than average.
 
 ### GameMaker Extensions
-* [FileCompressed](https://github.com/AntikoreDev/FileCompressed/) · Save/Load GameMaker structs onto binary files.
+* [FileCompressed](https://github.com/AntikoreDev/file-compressed/) · Save/Load GameMaker structs onto binary files.
 
 ### Duck Game Mods
 These mods are pretty old but released to public domain due to the possible delisting of Duck Game and other ASG games.
