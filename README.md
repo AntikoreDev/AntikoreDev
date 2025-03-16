@@ -54,10 +54,13 @@ _My goal is to make games that can change the world._
 ### GameMaker Extensions
 * [FileCompressed](https://github.com/AntikoreDev/file-compressed/) · Save/Load GameMaker structs onto binary files.
 
-### Duck Game Mods
-These mods are pretty old but released to public domain due to the possible delisting of Duck Game and other ASG games.
+### Mods
+Duck Game: These mods are pretty old but released to public domain due to the possible delisting of Duck Game and other ASG games.
 * [Basketball](https://github.com/AntikoreDev/dg-basketball) · Basketball game mode for Duck Game
 * [Random Stuff](https://github.com/AntikoreDev/dg-random-stuff) · A bunch of items and weapons for Duck Game
+
+Balatro: Cuz why not
+* [Ninfia Mod](https://github.com/AntikoreDev/ninfia-mod/tree/main) · A meme mod that adds a "joker boss" and a challenge to play with it
 
 ## Miscellaneous Projects
 * [Aidanish](https://github.com/AntikoreDev/aidanish) · A constructed language of my creation, mixture between various romanic, germanic and other languages. Also using some python scripts to manage various aspects of the language and files on the repository.
