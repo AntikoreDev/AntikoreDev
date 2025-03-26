@@ -61,6 +61,8 @@ Duck Game: These mods are pretty old but released to public domain due to the po
 
 Balatro: Cuz why not
 * [Ninfia Mod](https://github.com/AntikoreDev/ninfia-mod/tree/main) · A meme mod that adds a "joker boss" and a challenge to play with it
+* [Bulanere Mod](https://github.com/AntikoreDev/bulanere-mod/tree/main) · A mod that translates Balatro almost fully to my [conlang](https://github.com/AntikoreDev/aidanish)
+
 
 ## Miscellaneous Projects
 * [Aidanish](https://github.com/AntikoreDev/aidanish) · A constructed language of my creation, mixture between various romanic, germanic and other languages. Also using some python scripts to manage various aspects of the language and files on the repository.
