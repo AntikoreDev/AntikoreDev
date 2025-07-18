@@ -50,7 +50,7 @@ _My goal is to make games that can change the world._
 * [TBTS](https://github.com/AntikoreDev/TBTS/) · Open source terminal-based solo trivia game.
 * [IWANNADIE](https://github.com/AntikoreDev/IWANNADIE/) · Weird esolang made in python for those who like damage more than average.
 * [vimp](https://github.com/AntikoreDev/vimp) · Experimental music player based on Colorfire Redux OST videos (_April Fools_)
-* [Trophy Bot](https://github.com/jhg/trophy-bot/) · Discord.js bot to manage trophies and scoring in your server. (**No longer maintained myself**)
+* [Trophy Bot](https://github.com/jhg/trophy-bot/) · Discord.js bot to manage trophies and scoring in your server. (**No longer maintained by myself**)
 
 ### GameMaker Extensions
 * [FileCompressed](https://github.com/AntikoreDev/file-compressed/) · Save/Load GameMaker structs onto binary files.
