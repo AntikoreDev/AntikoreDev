@@ -40,7 +40,8 @@ _My goal is to make games that can change the world._
   <a href="https://tenacityaudio.org/"><img alt="Tenacity" src="https://img.shields.io/badge/Tenacity-CA153E?style=for-the-badge&logo=audacity&logoColor=white"></a>
   <a href="https://www.adobe.com/es/products/premiere.html"><img alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
   <a href="https://github.com/obsproject/obs-studio"><img alt="OBS" src="https://img.shields.io/badge/OBS%20Studio-000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white"></a>
-  <a href="https://getpaint.net/"><img alt="Paint.NET" src="https://img.shields.io/badge/Paint.NET-0000AA.svg?style=for-the-badge&logo=.net&logoColor=white"></a>
+  <!--<a href="https://getpaint.net/"><img alt="Paint.NET" src="https://img.shields.io/badge/Paint.NET-0000AA.svg?style=for-the-badge&logo=.net&logoColor=white"></a>-->
+  <a href="https://godotengine.org/"><img alt="Godot" src="https://img.shields.io/badge/Krita-FF20F7?style=for-the-badge&logo=krita&logoColor=white&labelColor=ff20f7&color=ff20f7"></a>
   <a href="https://store.steampowered.com"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://itch.io/"><img alt="Itch" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </div>
