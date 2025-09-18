@@ -29,6 +29,7 @@ _My goal is to make games that can change the world._
 <div align="center">
   <a href="https://www.brave.com"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"></a>
   <a href="https://www.aseprite.org/"><img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"></a>
+  <a href="https://godotengine.org/"><img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=478cbf&color=478CBF"></a>
   <a href="https://gamemaker.io"><img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white&labelColor=black&color=black"></a>
   <a href="https://ko-fi.com/P5P7827IB"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   <a href="https://obsidian.md/"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"></a>
@@ -43,7 +44,6 @@ _My goal is to make games that can change the world._
   <a href="https://store.steampowered.com"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://itch.io/"><img alt="Itch" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </div>
-
 
 ## Cool Stuff
 * [rngoose](https://github.com/AntikoreDev/rngoose) · Node.js package for easily management of random numbers
